@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+  color: rgb(252, 8, 170);
+  font-size: 1.3vw;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: left;
 }
 
 .choresHeading {
-   color: black;
+  color: rgb(6, 17, 223);
+  font-size: 1.3vw;
+  text-decoration: underline;
+  text-align: left;
 }
